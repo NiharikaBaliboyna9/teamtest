@@ -1,0 +1,30 @@
+[
+  {
+    "groupName": "Admin",
+    "precedence": 1
+  },
+  {
+    "groupName": "test5",
+    "precedence": 2
+  },
+  {
+    "groupName": "user",
+    "precedence": 3
+  },
+  {
+    "groupName": "testgrp",
+    "precedence": 4
+  },
+  {
+    "groupName": "testgrp2",
+    "precedence": 5
+  },
+  {
+    "groupName": "test3",
+    "precedence": 6
+  },
+  {
+    "groupName": "test4",
+    "precedence": 7
+  }
+]
