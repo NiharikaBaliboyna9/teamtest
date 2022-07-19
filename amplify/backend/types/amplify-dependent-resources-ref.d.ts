@@ -44,6 +44,12 @@ export type AmplifyDependentResourcesAttributes = {
             "Arn": "string",
             "LambdaExecutionRole": "string",
             "Region": "string"
+        },
+        "postuser459b2689": {
+            "Name": "string",
+            "Arn": "string",
+            "Region": "string",
+            "LambdaExecutionRole": "string"
         }
     }
 }

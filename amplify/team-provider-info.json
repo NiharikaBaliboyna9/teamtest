@@ -31,6 +31,11 @@
           "RECAPTCHASECRET": "",
           "deploymentBucketName": "amplify-postuser-dev-163723-deployment",
           "s3Key": "amplify-builds/postuser7cfe7a5f7cfe7a5fVerifyAuthChallengeResponse-693865784e4c38583630-build.zip"
+        },
+        "postuser459b2689": {
+          "testenv": "testenvval",
+          "deploymentBucketName": "amplify-postuser-dev-163723-deployment",
+          "s3Key": "amplify-builds/postuser459b2689-72654a59322f4a4f6347-build.zip"
         }
       }
     }
