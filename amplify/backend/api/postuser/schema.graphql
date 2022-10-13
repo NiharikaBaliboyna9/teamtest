@@ -13,6 +13,6 @@ id: ID!
 user: User @belongsTo(fields:["userID"])
 userID: ID @index(name:"UserReference",queryField:"postByUserId", sortKeyFields:["createdAt"])
 createdAt: AWSDateTime 
-alias: String
-testing: String @index(name:"testingindex")
+alias: String @index(name:"aliastestingindex")
+testing: String 
 }
